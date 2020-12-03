@@ -239,6 +239,17 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
+collections:
+  people:
+    output: true
+    permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
+  publication:
+    output: true
+    permalink: /:collection/:path/
+    
 category_archive:
   type: liquid
   path: /categories/
@@ -287,4 +298,30 @@ defaults:
     values:
       layout: single
       author_profile: true
-    
+
+  # _people
+  - scope:
+      path: ""
+      type: people
+    values:
+      layout: single
+      author_profile: false
+      share: true    
+
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: false
+      share: true    
+
+  # _publication
+  - scope:
+      path: ""
+      type: publication
+    values:
+      layout: single
+      author_profile: false
+      share: true    
