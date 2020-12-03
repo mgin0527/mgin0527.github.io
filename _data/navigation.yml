@@ -9,3 +9,5 @@ main:
     url: /page-archive/
   - title: "Contact"
     url: /contact/
+  - title: "Calendar"
+    url: /calendar/
