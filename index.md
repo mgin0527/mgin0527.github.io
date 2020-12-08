@@ -1,3 +1,8 @@
+---
+layout: home
+author_profile: true
+---
+
 [People](people.md)
 
 [Research](https://sites.google.com/view/yhnam/research)
