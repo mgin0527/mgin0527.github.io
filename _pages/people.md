@@ -14,7 +14,7 @@ classes: wide
 Assistant professor  
 [yoonhonam@hufs.ac.kr](mailto:yoonhonam@hufs.ac.kr)
 {: .text-right}  
-
+             
 
 
 
@@ -23,12 +23,12 @@ Assistant professor
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
 ### [Junghwa Kang]()  
-  
-  
+    
+    
 MS student  
 [Kangjung9592 AT gmail.com]()
 {: .text-right}  
-
+                   
 
 
 
@@ -40,7 +40,7 @@ MS student
   
 Undergraduate Intern
 {: .text-right}  
-
+                     
 
 
 
@@ -52,7 +52,7 @@ Undergraduate Intern
   
 Undergraduate Intern
 {: .text-right}  
-
+                  
 
 
 
@@ -64,7 +64,7 @@ Undergraduate Intern
   
 Undergraduate Intern
 {: .text-right}  
- 
+                        
 
 
 
