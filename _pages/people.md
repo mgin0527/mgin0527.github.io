@@ -6,7 +6,8 @@ classes: wide
 
 ## Principle Investigator1
 
-
+<div>
+  
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
 ### [Yoonho Nam](https://yoonhonam.github.io/)    
@@ -16,17 +17,12 @@ Assistant professor
 [yoonhonam@hufs.ac.kr](mailto:yoonhonam@hufs.ac.kr)    
 {: .text-right}
 
-
-
-
-
-
-
-####
+</div>
 
 ## Current Members
 
-
+<div>
+  
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
 ### [Junghwa Kang]()   
@@ -36,8 +32,9 @@ MS student
 [Kangjung9592 AT gmail.com]()    
 {: .text-right}
 
+</div>
 
-
+<div>
 
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
@@ -47,8 +44,9 @@ MS student
 Undergraduate Intern    
 {: .text-right}  
 
+</div>
 
-
+<div>
 
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
@@ -58,8 +56,9 @@ Undergraduate Intern
 Undergraduate Intern    
 {: .text-right}
 
+</div>
 
-
+<div>
 
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
@@ -69,8 +68,9 @@ Undergraduate Intern
 Undergraduate Intern    
 {: .text-right}
 
+</div>
 
-
+<div>
 
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
@@ -79,3 +79,5 @@ Undergraduate Intern
 
 Undergraduate Intern    
 {: .text-right}
+
+</div>
