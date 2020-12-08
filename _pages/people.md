@@ -5,6 +5,7 @@ classes: wide
 ---
 
 ## Principle Investigator
+{: .full}
 
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
@@ -24,6 +25,7 @@ Assistant professor
 ####
 
 ## Current Members
+{: .full}
 
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
@@ -36,7 +38,7 @@ MS student
 
 
 
-
+   {: .full}
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
 ### [Seungun Jang]()    
@@ -47,7 +49,7 @@ Undergraduate Intern
 
 
 
-
+   {: .full}
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
 ### [Hyebin Lee]()    
@@ -58,7 +60,7 @@ Undergraduate Intern
 
 
 
-
+   {: .full}
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
 ### [유환승]()    
@@ -69,7 +71,7 @@ Undergraduate Intern
 
 
 
-
+   {: .full}
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
 ### [백다영]()    
