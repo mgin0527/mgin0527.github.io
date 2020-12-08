@@ -14,6 +14,8 @@ Assistant professor
 {: .text-right}   
    
    
+   
+   
 ## Current Members
 
 ![image-left](/assets/images/people/person1.JPG){: .align-left}
