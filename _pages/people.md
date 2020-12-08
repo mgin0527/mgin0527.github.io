@@ -27,7 +27,6 @@ MS student
 {: .text-right}
 
 <br>
-<br>
 
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
