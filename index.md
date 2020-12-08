@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 ---
 
-[People](people.md)
+[People](/people/)
 
 [Research](https://sites.google.com/view/yhnam/research)
 - ML Applications for Medical Imaging
