@@ -14,12 +14,9 @@ Assistant professor
 [yoonhonam@hufs.ac.kr](mailto:yoonhonam@hufs.ac.kr)    
 {: .text-right}
 
-
-<br>
 <br>
 
 ## Current Members
-
 
   
 ![image-left](/assets/images/people/person.JPG){: .align-left}
@@ -28,7 +25,6 @@ Assistant professor
 MS student    
 [Kangjung9592 AT gmail.com]()    
 {: .text-right}
-
 
 <br>
 <br>
@@ -56,7 +52,6 @@ Undergraduate Intern
 ### [유환승]()    
 Undergraduate Intern  
 {: .text-right}
-
 
 <br>
 <br>
