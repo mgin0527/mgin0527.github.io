@@ -4,50 +4,50 @@ permalink: /people/
 classes: wide
 ---
 
-### Principle Investigator
+## Principle Investigator
 
 ![image-left](/assets/images/people/person1.JPG){: .align-left}
 
-#### [Yoonho Nam](https://yoonhonam.github.io/)
+### [Yoonho Nam](https://yoonhonam.github.io/)  
 Assistant professor   
 [yoonhonam@hufs.ac.kr](mailto:yoonhonam@hufs.ac.kr)
 {: .text-right}   
    
    
-### Current Members
+## Current Members
 
 ![image-left](/assets/images/people/person1.JPG){: .align-left}
 
-#### [Junghwa Kang]()   
-MS student   
-[Kangjung9592 AT gmail.com]()   
+### [Junghwa Kang]()  
+MS student 
+[Kangjung9592 AT gmail.com]()
 {: .text-right}   
    
    
 ![image-left](/assets/images/people/person1.JPG){: .align-left}
 
-#### [Seungun Jang]()   
-Undergraduate Intern   
-{: .text-right}  
+### [Seungun Jang]()  
+Undergraduate Intern 
+{: .text-right}
   
   
   
 ![image-left](/assets/images/people/person1.JPG){: .align-left}
 
-#### [Hyebin Lee]()   
-Undergraduate Intern   
-{: .text-right}   
+### [Hyebin Lee]()  
+Undergraduate Intern
+{: .text-right}
    
 
 ![image-left](/assets/images/people/person1.JPG){: .align-left}
 
-#### [유환승]()   
-Undergraduate Intern   
-{: .text-right}   
+### [유환승]()  
+Undergraduate Intern
+{: .text-right} 
    
    
 ![image-left](/assets/images/people/person1.JPG){: .align-left}
 
-#### [백다영]()   
-Undergraduate Intern   
+### [백다영]()  
+Undergraduate Intern
 {: .text-right}
