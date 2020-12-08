@@ -11,6 +11,7 @@ classes: wide
     - [yoonhonam@hufs.ac.kr](mailto:yoonhonam@hufs.ac.kr)
 
 ### Current Members
+![image-left](/assets/images/people/person1.JPG){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**
 ![image-left](/assets/images/people/person1.JPG){: .align-left}[Junghwa Kang]()
 MS student
 [Kangjung9592 AT gmail.com]()
