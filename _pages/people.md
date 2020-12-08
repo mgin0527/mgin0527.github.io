@@ -1,9 +1,5 @@
 ---
-title: People
-
 permalink: /people/
-
-
 classes: wide
 ---
 
