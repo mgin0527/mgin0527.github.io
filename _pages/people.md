@@ -15,9 +15,11 @@ Assistant professor
 {: .text-right}
 
 
+<br>
+<br>
 
 ## Current Members
-{: .full}
+
 
   
 ![image-left](/assets/images/people/person.JPG){: .align-left}
@@ -28,7 +30,8 @@ MS student
 {: .text-right}
 
 
-
+<br>
+<br>
 
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
@@ -36,7 +39,8 @@ MS student
 Undergraduate Intern   
 {: .text-right}  
 
-
+<br>
+<br>
 
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
@@ -44,7 +48,8 @@ Undergraduate Intern
 Undergraduate Intern    
 {: .text-right}
 
-
+<br>
+<br>
 
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
@@ -53,10 +58,14 @@ Undergraduate Intern
 {: .text-right}
 
 
-
+<br>
+<br>
 
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
 ### [백다영]()    
 Undergraduate Intern    
 {: .text-right}
+
+<br>
+<br>
