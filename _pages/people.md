@@ -1,3 +1,12 @@
+---
+title: People
+layout: collection
+permalink: /people/
+collection: people
+entries_layout: grid
+classes: wide
+---
+
 ### People
 - Principle Investigator
     - [Yoonho Nam](https://yoonhonam.github.io/)
