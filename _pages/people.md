@@ -6,7 +6,7 @@ classes: wide
 
 ## Principle Investigator
 
-![image-left](/assets/images/people/person1.JPG){: .align-left}
+![image-left](/assets/images/people/person.JPG){: .align-left}
 
 ### [Yoonho Nam](https://yoonhonam.github.io/)
 
@@ -17,7 +17,7 @@ Assistant professor
  
 ## Current Members
 
-![image-left](/assets/images/people/person1.JPG){: .align-left}
+![image-left](/assets/images/people/person.JPG){: .align-left}
 
 ### [Junghwa Kang]()
 
@@ -27,7 +27,7 @@ MS student
 {: .text-right}   
 
 
-![image-left](/assets/images/people/person1.JPG){: .align-left}
+![image-left](/assets/images/people/person.JPG){: .align-left}
 
 ### [Seungun Jang]()
 
@@ -36,7 +36,7 @@ Undergraduate Intern
 {: .text-right}
 
 
-![image-left](/assets/images/people/person1.JPG){: .align-left}
+![image-left](/assets/images/people/person.JPG){: .align-left}
 
 ### [Hyebin Lee]()
 
@@ -45,7 +45,7 @@ Undergraduate Intern
 {: .text-right}
 
 
-![image-left](/assets/images/people/person1.JPG){: .align-left}
+![image-left](/assets/images/people/person.JPG){: .align-left}
 
 ### [유환승]()
 
@@ -54,7 +54,7 @@ Undergraduate Intern
 {: .text-right} 
  
  
-![image-left](/assets/images/people/person1.JPG){: .align-left}
+![image-left](/assets/images/people/person.JPG){: .align-left}
 
 ### [백다영]()
 
