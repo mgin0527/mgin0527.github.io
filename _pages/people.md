@@ -8,9 +8,9 @@ classes: wide
 
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
-### [Yoonho Nam](https://yoonhonam.github.io/)
-  
-  
+### [Yoonho Nam](https://yoonhonam.github.io/)    
+    
+   
 Assistant professor  
 [yoonhonam@hufs.ac.kr](mailto:yoonhonam@hufs.ac.kr)
 {: .text-right}  
@@ -22,7 +22,7 @@ Assistant professor
 
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
-### [Junghwa Kang]()  
+### [Junghwa Kang]()    
     
     
 MS student  
@@ -34,8 +34,8 @@ MS student
 
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
-### [Seungun Jang]()  
-  
+### [Seungun Jang]()    
+     
   
   
 Undergraduate Intern
@@ -46,8 +46,8 @@ Undergraduate Intern
 
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
-### [Hyebin Lee]()  
-  
+### [Hyebin Lee]()    
+    
   
   
 Undergraduate Intern
@@ -58,8 +58,8 @@ Undergraduate Intern
 
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
-### [유환승]()  
-  
+### [유환승]()    
+    
   
   
 Undergraduate Intern
@@ -70,8 +70,8 @@ Undergraduate Intern
 
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
-### [백다영]()  
-  
+### [백다영]()     
+    
   
   
 Undergraduate Intern
