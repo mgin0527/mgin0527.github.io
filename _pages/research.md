@@ -3,5 +3,5 @@ title: Research
 layout: collection
 permalink: /research/
 collection: research
-author_profile: false
+entries_layout: grid
 ---
