@@ -6,7 +6,7 @@ classes: wide
 
 ### Principle Investigator
 
-![image-left](/assets/images/people/person1.JPG)
+![image-left](/assets/images/people/person1.JPG){: .align-left}
 
 - [Yoonho Nam](https://yoonhonam.github.io/)
     - Assistant professor
