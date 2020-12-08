@@ -40,7 +40,8 @@ MS student
 ### [Seungun Jang]()    
 
 
-Undergraduate Intern    
+Undergraduate Intern   
+-    
 {: .text-right}  
 
 
@@ -52,6 +53,7 @@ Undergraduate Intern
 
 
 Undergraduate Intern    
+-    
 {: .text-right}
 
 
@@ -63,7 +65,8 @@ Undergraduate Intern
 ### [유환승]()    
 
 
-Undergraduate Intern    
+Undergraduate Intern  
+-    
 {: .text-right}
 
 
@@ -76,4 +79,5 @@ Undergraduate Intern
 
 
 Undergraduate Intern    
+-    
 {: .text-right}
