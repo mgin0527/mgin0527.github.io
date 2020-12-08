@@ -17,7 +17,7 @@ Assistant professor
 
 
 ## Current Members
-
+{: .full}
 
   
 ![image-left](/assets/images/people/person.JPG){: .align-left}
@@ -30,13 +30,11 @@ MS student
 
 
 
-
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
 ### [Seungun Jang]()    
 Undergraduate Intern   
 {: .text-right}  
-
 
 
 
@@ -48,14 +46,11 @@ Undergraduate Intern
 
 
 
-
-
 ![image-left](/assets/images/people/person.JPG){: .align-left}
 
 ### [유환승]()    
 Undergraduate Intern  
 {: .text-right}
-
 
 
 
