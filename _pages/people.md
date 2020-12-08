@@ -14,7 +14,8 @@ classes: wide
 Assistant professor  
 [yoonhonam@hufs.ac.kr](mailto:yoonhonam@hufs.ac.kr)
 {: .text-right}  
- 
+
+
 ## Current Members
 
 ![image-left](/assets/images/people/person.JPG){: .align-left}
@@ -32,6 +33,7 @@ MS student
 ### [Seungun Jang]()  
 
 
+  
 Undergraduate Intern
 {: .text-right}  
 
@@ -41,6 +43,7 @@ Undergraduate Intern
 ### [Hyebin Lee]()  
 
 
+  
 Undergraduate Intern
 {: .text-right}  
 
@@ -50,6 +53,7 @@ Undergraduate Intern
 ### [유환승]()  
 
 
+  
 Undergraduate Intern
 {: .text-right}  
  
@@ -59,5 +63,6 @@ Undergraduate Intern
 ### [백다영]()  
 
 
+  
 Undergraduate Intern
 {: .text-right}  
