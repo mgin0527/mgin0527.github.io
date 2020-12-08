@@ -4,7 +4,7 @@ permalink: /people/
 classes: wide
 ---
 
-## Principle Investigator1
+## Principle Investigator
 
   
 ![image-left](/assets/images/people/person.JPG){: .align-left}
