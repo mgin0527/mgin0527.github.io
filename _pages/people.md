@@ -4,6 +4,12 @@ permalink: /people/
 classes: wide
 ---
 
+{% slider %}
+  ![lemon cake1](assets/images/kitchen_adventurer_lemon.jpg)
+  ![lemon cake2](assets/images/kitchen_adventurer_lemon.jpg)
+  ![book](assets/images/research_1.jpg)
+{% endslider %}
+
 ## Principle Investigator
 
   
