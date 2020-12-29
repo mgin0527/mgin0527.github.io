@@ -5,9 +5,9 @@ classes: wide
 ---
 
 {% slider %}
-  ![lemon cake1](assets/images/kitchen_adventurer_lemon.jpg)
-  ![lemon cake2](assets/images/kitchen_adventurer_lemon.jpg)
-  ![book](assets/images/research_1.jpg)
+  [![lemon cake1](kitchen_adventurer_lemon.jpg)](assets/images)
+  [![lemon cake2](kitchen_adventurer_lemon.jpg)](assets/images)
+  [![book](research_1.jpg)](assets/images)
 {% endslider %}
 
 ## Principle Investigator
