@@ -280,6 +280,9 @@ compress_html:
 # Ideal-image-slider
 iis_slider_array: []
 
+image_sliders:
+  - example_slider
+  - slider2
 # Defaults
 defaults:
   # _posts
