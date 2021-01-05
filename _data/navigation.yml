@@ -13,5 +13,7 @@ main:
     url: /publication/
   - title: "People"
     url: /people/
+  - title: "Examples"
+    url: /examples/
   - title: "Calendar"
     url: /calendar/
