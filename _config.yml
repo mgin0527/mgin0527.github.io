@@ -311,7 +311,17 @@ defaults:
       author_profile: false
       share: true    
 
-  # _research
+
+  # _examples
+  - scope:
+      path: ""
+      type: examples
+    values:
+      layout: single
+      author_profile: false
+      share: true    
+
+# _research
   - scope:
       path: ""
       type: research
